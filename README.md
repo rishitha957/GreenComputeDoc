@@ -1,5 +1,6 @@
 Towards Analysing Energy Trends of Source Code
-###What is GreenCompute?
+
+### What is GreenCompute?
 GreenCompute is tool, that traverses the source code sections with BFS - (Breadth First Seach), Intel Gadget API, Python (PSutil)
 
 ### Features of GreenCompute
