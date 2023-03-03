@@ -1,4 +1,3 @@
-# GreenCompute
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -97,7 +96,7 @@
                                     </ol>
                                 </div><!--//section-block-->
                                 <div class="section-block">
-                                    <img class="img-fluid" src="assets/images/updated_process_diagram.PNG" alt="elegant icons" />
+                                    <img class="img-fluid" src="assets/images/image-flow.PNG" alt="elegant icons" />
                                 </div><!--//section-block-->
                                 
                             </section><!--//doc-section-->
@@ -126,7 +125,7 @@
                                     </p>
                                 </div>
                                 <div class="section-block">
-                                    <img src="assets/images/results.JPG">
+                                    <img class="img-fluid" src="assets/images/results.png">
                                 </div><!--//section-block-->
                             </section><!--//doc-section-->
                         </div><!--//content-inner-->
@@ -162,5 +161,3 @@
     
 </body>
 </html> 
-
-
