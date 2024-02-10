@@ -6,11 +6,9 @@ GreenCompute is tool, that traverses the source code sections with BFS - (Breadt
 ### Features of GreenCompute
 Breadth-first search algorithm for traversing a source code repesented as an Abstract Syntax Tree to compute the CPU Utilization of each node (code snippet)
 
-Aggregates the total power consupltion to further visualise energy trends on the Tableau dashboard
-
 Help developers identify critical energy inefficient areas in source code.
 
-Uses of GreenCompute
+### Uses of GreenCompute
 Energy inefiicient code snipptes are discouraged from being written in further software developments.
 
 To help developers mitigate the usage of energy consuming code during new software developments, the developer must be aware of the usage of inefficent APIs and / or code in the project.
@@ -26,19 +24,8 @@ We then parse the soure code of library to generate Abstract Syntax Tree.
 
 We then extract the CPU utilization metrics of the code snipptes by using Intel Gadget API and Python Psutil API.
 
-We then extract the CPU utilization metrics of the code snipptes by using Intel Gadget API and Python Psutil API.
-
 GreenCompute, now visually represents the energy trends of our code
 
-elegant icons
-### Source Code of GreenCompute
-Source code of the extension can be found here - https://github.com/rishitha957/GreenCompute
+### Future of GreenCompute
 
-energy-profiler is the entry point of the repository
-
-parse.py helps parse the source code of code repositories to create a abstarct syntax tree and visitors.py does a braedth first search on the created abstarct tree
-
-cpu.py uses Intel Power Gadget API to compute the CPU utilization of each node in the AST and outputs in the format of KiloWHs
-
-elegant icons
 
