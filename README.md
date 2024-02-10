@@ -41,6 +41,4 @@ parse.py helps parse the source code of code repositories to create a abstarct s
 cpu.py uses Intel Power Gadget API to compute the CPU utilization of each node in the AST and outputs in the format of KiloWHs
 
 elegant icons
-### Results
-Below summarizes the total number of deprecated API elements detected by the Algorithm. The proposed algorithm identified 838 out of 871 API elements across six different Python libraries
 
